@@ -1,4 +1,7 @@
 langgraph>=1.0.0
-langchain>=1.3.10
 langchain-anthropic>=1.4.6
-langchain-community
+pydantic>=2.7.0
+langgraph-checkpoint-postgres>=2.0.0
+
+# Development and evaluation
+pytest>=8.0.0
