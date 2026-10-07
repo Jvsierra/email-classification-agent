@@ -1,7 +1,7 @@
 langgraph>=1.0.0
 langchain-anthropic>=1.4.6
 pydantic>=2.7.0
+email-validator>=2.1.0
 langgraph-checkpoint-postgres>=2.0.0
-
-# Development and evaluation
-pytest>=8.0.0
+python-dotenv>=1.0.0
+streamlit>=1.40.0
